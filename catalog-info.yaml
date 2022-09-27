@@ -2,6 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-app
+  tags:
+    - r2
+    - r4
   annotations:
     github.com/project-slug: saikatcse03/backstage-app
 spec:
